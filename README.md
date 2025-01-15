@@ -23,6 +23,4 @@ Normalização: Certifique-se de que o modelo esteja normalizado para evitar red
 Contribuições
 Sinta-se à vontade para contribuir com este projeto!
 
-Agradecimentos especiail a:
-
-@julianazanelatto (perfil: https://github.com/julianazanelatto) pelas aulas do bootcamp e propostas de desafio
+Agradecimentos especial a @julianazanelatto (perfil: https://github.com/julianazanelatto) pelas aulas do bootcamp e propostas de desafio.
